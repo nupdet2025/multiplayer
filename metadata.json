@@ -1,0 +1,5 @@
+{
+  "name": "Multiplayer Arena",
+  "description": "A real-time multiplayer game where players can move around and interact in a shared space.",
+  "requestFramePermissions": []
+}
